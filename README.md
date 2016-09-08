@@ -7,7 +7,7 @@ We were asked to do an assignment on simple pattern recognition algorithms via u
 A. we had to randomly generate 500 points in 2D space. 400 of them would belong tothe first class and the rest on the second.
    The given space for class 1 was [2,8]x[1,2] and for the second [6,8]x[2.5,5.5].
    
-B. B2. Euclidian distance algorithm
+B. B2. Euclidian distance algorithm \n
    B3. Mahalanobis distance algorithm
    B4. Bayesian Classifier
 
