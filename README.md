@@ -1,7 +1,8 @@
 # UNIVERSITY ASSIGNMENT ON PATTERN RECOGNITION <h1>
 
 SPRING SEMESTER 2016
-University of Thessali - Electrical and Computer Engineering department
+
+University of Thessaly - Electrical and Computer Engineering department
 
 We were asked to do an assignment on simple pattern recognition algorithms via using Matlab.
 
